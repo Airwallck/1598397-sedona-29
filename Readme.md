@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Тарас Першин](https://up.htmlacademy.ru/htmlcss/29/user/1598397).
-* Наставник: `Сергей Остаповец`(https://htmlacademy.ru/profile/seraphim).
+* Наставник: [Сергей Остаповец](https://htmlacademy.ru/profile/seraphim).
 
 ---
 
